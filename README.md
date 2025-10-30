@@ -4,8 +4,7 @@ Este é o repositório do back-end para o projeto de Calculadora de Pegada de Ca
 
 Esta API é construída em Python usando o framework Flask e serve os dados de cálculo e fatores de emissão para o front-end em React.
 
-**API de Produção (calcular):** `https://api-calculadora-carbono.onrender.com/api/calcular`
-**API de Produção (resgastar os fatores):** `https://api-calculadora-carbono.onrender.com/api/fatores`
+**API de Produção :** `https://api-calculadora-carbono.onrender.com`
 
 ---
 
@@ -34,8 +33,7 @@ Esta API é construída em Python usando o framework Flask e serve os dados de c
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://www.reddit.com/r/webdev/comments/168jksj/tips_for_doing_backend_development_on_a_public/](https://www.reddit.com/r/webdev/comments/168jksj/tips_for_doing_backend_development_on_a_public/)
-    cd [nome-da-pasta]
+    git clone `https://github.com/iniV2k/api-calculadora-carbono.git`
     ```
 
 2.  **Crie e ative um ambiente virtual:**
