@@ -33,7 +33,7 @@ Esta API é construída em Python usando o framework Flask e serve os dados de c
 
 1.  **Clone o repositório:**
     ```bash
-    git clone `https://github.com/iniV2k/api-calculadora-carbono.git`
+    git clone https://github.com/iniV2k/api-calculadora-carbono.git
     ```
 
 2.  **Crie e ative um ambiente virtual:**
