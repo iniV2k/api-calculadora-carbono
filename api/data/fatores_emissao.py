@@ -1,7 +1,7 @@
 def fatoresEmissao():
     FATORES_EMISSAO = {
             "transporte": {
-                "gasolina": 1.6,
+                "gasolina": 2.3,
                 "diesel": 3.2,
                 "etanol": 0.78,
                 "gnv": 1.66,
